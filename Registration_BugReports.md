@@ -13,13 +13,13 @@
 
 ## 🔗 Оглавление
 
-- [BR_reg_name_invalid_num_01 – Поле «Имя» принимает цифры](#br_reg_name_invalid_num_01--поле-имя-принимает-цифры)
-- [BR_reg_name_invalid_spec_02 – Поле «Имя» принимает спецсимволы](#br_reg_name_invalid_spec_02--поле-имя-принимает-спецсимволы)
-- [BR_reg_name_invalid_length_03 – Поле «Имя» принимает <2 или >50 символов](#br_reg_name_invalid_length_03--поле-имя-принимает-2-или-50-символов)
-- [BR_reg_surname_invalid_num_04 – Поле «Фамилия» принимает цифры](#br_reg_surname_invalid_num_04--поле-фамилия-принимает-цифры)
-- [BR_reg_name_invalid_1sym_05 – Поля «Имя» и «Фамилия» с 1 символом](#br_reg_name_invalid_1sym_05--поля-имя-и-фамилия-с-1-символом)
-- [BR_reg_second_email_06 – Повторный email создаёт новый аккаунт](#br_reg_second_email_06--повторный-email-создаёт-новый-аккаунт)
-- [BR_reg_password_invalid_07 – Пароль без заглавной буквы и спецсимвола](#br_reg_password_invalid_07--пароль-без-заглавной-буквы-и-спецсимвола)
+- [BR_reg_name_invalid_num_01](#br_reg_name_invalid_num_01)
+- [BR_reg_name_invalid_spec_02](#br_reg_name_invalid_spec_02)
+- [BR_reg_name_invalid_length_03](#br_reg_name_invalid_length_03)
+- [BR_reg_surname_invalid_num_04](#br_reg_surname_invalid_num_04)
+- [BR_reg_name_invalid_1sym_05](#br_reg_name_invalid_1sym_05)
+- [BR_reg_second_email_06](#br_reg_second_email_06)
+- [BR_reg_password_invalid_07](#br_reg_password_invalid_07)
 
 ---
 
