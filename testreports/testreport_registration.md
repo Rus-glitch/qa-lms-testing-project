@@ -7,7 +7,7 @@
 ---
 
 ## 1. Цель тестирования
-Проверить корректность работы функционала регистрации пользователя (роли «Ученик» и «Преподаватель»), валидацию форм и обработку ошибок в соответствии с [Требованиями к модулю](modules/requirements/registration&login_requirements.md).
+Проверить корректность работы функционала регистрации пользователя (роли «Ученик» и «Преподаватель»), валидацию форм и обработку ошибок в соответствии с [Требованиями к модулю]/(../modules/requirements/registration-login_requirements.md).
 
 ---
 
@@ -62,7 +62,7 @@
 | BR_reg_second_email_05       | Возможна регистрация с уже существующим email| Open   | High      |
 | BR_reg_password_invalid_06   | Пароль принимается без заглавной буквы и спецсимвола | Open | High |
 
-> Полный список баг-репортов доступен в разделе [docs/bugreports/registration.md](modules/registration/registration_bugreports.md)
+> Полный список баг-репортов доступен в разделе [Баг-репорты Регистрация](../modules/registration/registration_bugreports.md)
 
 ---
 
