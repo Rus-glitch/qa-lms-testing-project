@@ -81,26 +81,25 @@
 
 ### 📂 Модули — тестовая документация по каждому разделу
 - [📂 Каталог курсов](../modules/course_catalog)
-  - [Баг-репорты по каталогу курсов](../modules/course_catalog/course_catalog_bugreport.md)
-  - [Чек-листы по каталогу курсов](../modules/course_catalog/course_catalog_checklists.md)
   - [Требования к каталогу курсов](../modules/course_catalog/course_catalog_requirements.md)
+  - [Чек-листы по каталогу курсов](../modules/course_catalog/course_catalog_checklists.md)
   - [Тест-кейсы по каталогу курсов](../modules/course_catalog/course_catalog_testcases.md)
+  - [Баг-репорты по каталогу курсов](../modules/course_catalog/course_catalog_bugreport.md)
 - [📂 Регистрация](../modules/registration)
   - [Требования по регистрации и авторизации](../modules/registration/registration-login_requirements.md)
-  - [Баг-репорты по регистрации](../modules/registration/registration_bugreports.md)
   - [Чек-лист по регистрации](../modules/registration/registration_checklist.md)
   - [Тест-кейсы по регистрации](../modules/registration/registration_testcases.md)
+  - [Баг-репорты по регистрации](../modules/registration/registration_bugreports.md)
 - [📂 Авторизация](../modules/login)
-  - [Баг-репорты по авторизации](../modules/login/login_bugreports.md)
+  - [Требования по регистрации и авторизации](../modules/login/registration-login_requirements.md)
   - [Чек-лист по авторизации](../modules/login/login_checklist.md)
   - [Тест-кейсы по авторизации](../modules/login/login_testcases.md)
-  - [Требования по регистрации и авторизации](../modules/login/registration-login_requirements.md)
+  - [Баг-репорты по авторизации](../modules/login/login_bugreports.md)
 - [📂 Восстановление пароля](../modules/password_recovery)
-  - [Баг-репорты по восстановлению пароля](../modules/password_recovery/password_recovery_bugreport.md)
+  - [Требования по регистрации и авторизации](../modules/password_recovery/registration-login_requirements.md)
   - [Чек-лист по восстановлению пароля](../modules/password_recovery/password_recovery_checklist.md)
   - [Тест-кейсы по восстановлению пароля](../modules/password_recovery/password_recovery_testcases.md)
-  - [Требования по регистрации и авторизации](../modules/password_recovery/registration-login_requirements.md)
-
+  - [Баг-репорты по восстановлению пароля](../modules/password_recovery/password_recovery_bugreport.md)
 
 ### 📂 Основная документация
 - [README проекта](../readme/README.md)
