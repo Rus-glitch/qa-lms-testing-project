@@ -85,6 +85,11 @@
   - [Чек-листы по каталогу курсов](../modules/course_catalog/course_catalog_checklists.md)
   - [Требования к каталогу курсов](../modules/course_catalog/course_catalog_requirements.md)
   - [Тест-кейсы по каталогу курсов](../modules/course_catalog/course_catalog_testcases.md)
+- [📂 Регистрация](../modules/registration)
+  - [Требования по регистрации и авторизации](../modules/registration/registration-login_requirements.md)
+  - [Баг-репорты по регистрации](../modules/registration/registration_bugreports.md)
+  - [Чек-лист по регистрации](../modules/registration/registration_checklist.md)
+  - [Тест-кейсы по регистрации](../modules/registration/registration_testcases.md)
 - [📂 Авторизация](../modules/login)
   - [Баг-репорты по авторизации](../modules/login/login_bugreports.md)
   - [Чек-лист по авторизации](../modules/login/login_checklist.md)
@@ -95,11 +100,7 @@
   - [Чек-лист по восстановлению пароля](../modules/password_recovery/password_recovery_checklist.md)
   - [Тест-кейсы по восстановлению пароля](../modules/password_recovery/password_recovery_testcases.md)
   - [Требования по регистрации и авторизации](../modules/password_recovery/registration-login_requirements.md)
-- [📂 Регистрация](../modules/registration)
-  - [Требования по регистрации и авторизации](../modules/registration/registration-login_requirements.md)
-  - [Баг-репорты по регистрации](../modules/registration/registration_bugreports.md)
-  - [Чек-лист по регистрации](../modules/registration/registration_checklist.md)
-  - [Тест-кейсы по регистрации](../modules/registration/registration_testcases.md)
+
 
 ### 📂 Основная документация
 - [README проекта](../readme/README.md)
